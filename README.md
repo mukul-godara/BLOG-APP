@@ -1,6 +1,8 @@
 # BLOG-APP
 STEPS TO USE THIS APP IN YOUR LOCAL SYSTEM
+<br>
 Make sure you have MongoDb installed into your system
+<br>
 
 1.Clone this repository into your system or copy the files
 <br>
